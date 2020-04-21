@@ -1,0 +1,31 @@
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+#doxygen doc
+docs/*.tmp
+docs/html/*
+docs/latex/*
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+#*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+.vscode/
+.vs/
